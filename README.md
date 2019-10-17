@@ -1,4 +1,4 @@
-# Email-PST-backup
+# Outlook-PST-backup
 záloha pst súborov (nie len pst)
 
 Ako makro pracuje:
