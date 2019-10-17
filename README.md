@@ -1,4 +1,4 @@
-# Outlook-PST-backup
+# Outlook-PST-backup on Synology
 záloha pst súborov (nie len pst)
 
 Ako makro pracuje:
