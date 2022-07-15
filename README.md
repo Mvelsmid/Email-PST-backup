@@ -1,4 +1,4 @@
-Vyvoj tohto doplnku nepokračuje.
+Vývoj tohto doplnku nepokračuje.
 # Outlook-PST-backup on Synology
 záloha pst súborov (nie len pst)
 
